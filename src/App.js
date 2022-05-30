@@ -79,7 +79,7 @@ function App() {
 
         <div className='heading-elements'>
           <p id='title'>Data Structure Demonstration</p>
-          <span id='data-structure-name'>Priority Queue</span>
+          <span id='data-structure-name'>Priority Queue for Strings</span>
         </div>
 
         <div className='queue-container'>
